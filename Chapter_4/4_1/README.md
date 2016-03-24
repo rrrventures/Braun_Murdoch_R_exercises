@@ -1,4 +1,4 @@
-Solutions for the 4.1 FLOW CONTROL exercises in Chapter 4
+SOLUTIONS FOR THE 4.1 FLOW CONTROL EXERCISES IN CHAPTER 4
 
 1p1 is section 4.1.1, FOR LOOP problems
 
